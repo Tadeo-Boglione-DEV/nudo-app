@@ -1,0 +1,42 @@
+{
+ "version": "0.5.0",
+ "date": "2026-11-27",
+ "files": {
+  "android": {
+   "name": "Nudo-0.5.0-android.apk",
+   "size": 5274691,
+   "sha256": "d98de35dce322b2b97093bd95952321823bf3bcb4807ce315986685d5e323463",
+   "url": "https://github.com/Tadeo-Boglione-DEV/nudo-app/releases/download/v0.5.0/Nudo-0.5.0-android.apk"
+  },
+  "debian": {
+   "name": "Nudo-0.5.0-linux-amd64.deb",
+   "size": 101928632,
+   "sha256": "44efd3eb2e771fd932b4bc88fb38af684ae0c9c2a1692b7b720a98efc35b69dd",
+   "url": "https://github.com/Tadeo-Boglione-DEV/nudo-app/releases/download/v0.5.0/Nudo-0.5.0-linux-amd64.deb"
+  },
+  "linux": {
+   "name": "Nudo-0.5.0-linux-x86_64.AppImage",
+   "size": 126101377,
+   "sha256": "7ddd8bfd2e1864d60933e9392b4aebdaf7994153d6fc939a709c1731a19b459a",
+   "url": "https://github.com/Tadeo-Boglione-DEV/nudo-app/releases/download/v0.5.0/Nudo-0.5.0-linux-x86_64.AppImage"
+  },
+  "mac-arm64": {
+   "name": "Nudo-0.5.0-mac-arm64.dmg",
+   "size": 120070279,
+   "sha256": "45b72de9f1334fc8905cf77ac9d8fcc3d506b1b2be2500fa998663db8ffd9dfb",
+   "url": "https://github.com/Tadeo-Boglione-DEV/nudo-app/releases/download/v0.5.0/Nudo-0.5.0-mac-arm64.dmg"
+  },
+  "mac-x64": {
+   "name": "Nudo-0.5.0-mac-x64.dmg",
+   "size": 127364323,
+   "sha256": "7013908a7dd9e9e6a5086c52e038b02d247393e83c2529e4f4a2cbed9c1b0a62",
+   "url": "https://github.com/Tadeo-Boglione-DEV/nudo-app/releases/download/v0.5.0/Nudo-0.5.0-mac-x64.dmg"
+  },
+  "windows": {
+   "name": "Nudo-0.5.0-win-x64.exe",
+   "size": 121011521,
+   "sha256": "979dc59223358c9c91acc41b8015c7d15a4c0def22e25061ab01eab9534e4251",
+   "url": "https://github.com/Tadeo-Boglione-DEV/nudo-app/releases/download/v0.5.0/Nudo-0.5.0-win-x64.exe"
+  }
+ }
+}
